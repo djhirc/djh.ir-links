@@ -2,20 +2,116 @@
     "generator": "DJH Internal Links Feed",
     "version": "2.1.0",
     "site": "https://djh.ir/",
-    "generated_at": "2026-10-07T06:20:13+00:00",
+    "generated_at": "2026-10-12T16:28:38+00:00",
     "stats": {
-        "total": 125,
-        "posts": 85,
+        "total": 128,
+        "posts": 88,
         "pages": 19,
         "categories": 11,
         "post_types": {
             "encyclopedia": 21,
             "page": 19,
-            "post": 85
+            "post": 88
         },
         "taxonomies": 4
     },
     "items": [
+        {
+            "id": 3187,
+            "title": "آموزش نرم‌افزار مدیریت کلیپ‌بورد Ditto",
+            "url": "https://djh.ir/ditto-clipboard-manager",
+            "type": "post",
+            "modified": "2026-10-11T06:09:54+00:00",
+            "categories": [
+                "نرم افزار و برنامه ها (معرفی و بررسی)"
+            ],
+            "tags": [
+                "Clipboard Manager",
+                "Ditto",
+                "Quick Paste",
+                "Windows 11",
+                "بهره‌وری ویندوز",
+                "کلیپ‌بورد ویندوز"
+            ],
+            "taxonomies": {
+                "category": [
+                    "نرم افزار و برنامه ها (معرفی و بررسی)"
+                ],
+                "post_tag": [
+                    "Clipboard Manager",
+                    "Ditto",
+                    "Quick Paste",
+                    "Windows 11",
+                    "بهره‌وری ویندوز",
+                    "کلیپ‌بورد ویندوز"
+                ],
+                "post_format": []
+            }
+        },
+        {
+            "id": 3145,
+            "title": "دوره رایگان آموزش SEO و GEO",
+            "url": "https://djh.ir/seo-geo-free-course",
+            "type": "post",
+            "modified": "2026-10-11T05:14:03+00:00",
+            "categories": [
+                "دوره های رایگان داریوش حقیقی",
+                "سئو و بهینه سازی موتور های جستجو"
+            ],
+            "tags": [
+                "SEO",
+                "آموزش",
+                "دوره رایگان",
+                "سئو"
+            ],
+            "taxonomies": {
+                "category": [
+                    "دوره های رایگان داریوش حقیقی",
+                    "سئو و بهینه سازی موتور های جستجو"
+                ],
+                "post_tag": [
+                    "SEO",
+                    "آموزش",
+                    "دوره رایگان",
+                    "سئو"
+                ],
+                "post_format": []
+            }
+        },
+        {
+            "id": 3294,
+            "title": "SSH چیست و چگونه کار می‌کند؟",
+            "url": "https://djh.ir/ssh-protocol-guide",
+            "type": "post",
+            "modified": "2026-10-08T16:55:07+00:00",
+            "categories": [
+                "سیستم عامل و زیر ساخت ها",
+                "نرم افزار و برنامه ها (معرفی و بررسی)"
+            ],
+            "tags": [
+                "OpenSSH",
+                "SSH",
+                "امنیت شبکه",
+                "رمزنگاری",
+                "لینوکس",
+                "مدیریت سرور"
+            ],
+            "taxonomies": {
+                "category": [
+                    "سیستم عامل و زیر ساخت ها",
+                    "نرم افزار و برنامه ها (معرفی و بررسی)"
+                ],
+                "post_tag": [
+                    "OpenSSH",
+                    "SSH",
+                    "امنیت شبکه",
+                    "رمزنگاری",
+                    "لینوکس",
+                    "مدیریت سرور"
+                ],
+                "post_format": []
+            }
+        },
         {
             "id": 3287,
             "title": "DJH Simple PHP Lister",
@@ -3319,21 +3415,21 @@
             "name": "دوره های رایگان داریوش حقیقی",
             "slug": "courses",
             "url": "https://djh.ir/category/courses",
-            "count": 1
+            "count": 2
         },
         {
             "id": 1025,
             "name": "سئو و بهینه سازی موتور های جستجو",
             "slug": "seo",
             "url": "https://djh.ir/category/seo",
-            "count": 9
+            "count": 10
         },
         {
             "id": 565,
             "name": "سیستم عامل و زیر ساخت ها",
             "slug": "os-infrastructure",
             "url": "https://djh.ir/category/os-infrastructure",
-            "count": 21
+            "count": 22
         },
         {
             "id": 1349,
@@ -3347,7 +3443,7 @@
             "name": "نرم افزار و برنامه ها (معرفی و بررسی)",
             "slug": "software",
             "url": "https://djh.ir/category/software",
-            "count": 26
+            "count": 28
         },
         {
             "id": 511,
@@ -3405,21 +3501,21 @@
                 "name": "دوره های رایگان داریوش حقیقی",
                 "slug": "courses",
                 "url": "https://djh.ir/category/courses",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 1025,
                 "name": "سئو و بهینه سازی موتور های جستجو",
                 "slug": "seo",
                 "url": "https://djh.ir/category/seo",
-                "count": 9
+                "count": 10
             },
             {
                 "id": 565,
                 "name": "سیستم عامل و زیر ساخت ها",
                 "slug": "os-infrastructure",
                 "url": "https://djh.ir/category/os-infrastructure",
-                "count": 21
+                "count": 22
             },
             {
                 "id": 1349,
@@ -3433,7 +3529,7 @@
                 "name": "نرم افزار و برنامه ها (معرفی و بررسی)",
                 "slug": "software",
                 "url": "https://djh.ir/category/software",
-                "count": 26
+                "count": 28
             },
             {
                 "id": 511,
@@ -4379,6 +4475,13 @@
                 "count": 1
             },
             {
+                "id": 1986,
+                "name": "Clipboard Manager",
+                "slug": "clipboard-manager",
+                "url": "https://djh.ir/tag/clipboard-manager",
+                "count": 1
+            },
+            {
                 "id": 1908,
                 "name": "ClipTrap",
                 "slug": "cliptrap",
@@ -4488,6 +4591,13 @@
                 "name": "Directory Listing",
                 "slug": "directory-listing",
                 "url": "https://djh.ir/tag/directory-listing",
+                "count": 1
+            },
+            {
+                "id": 1984,
+                "name": "Ditto",
+                "slug": "ditto",
+                "url": "https://djh.ir/tag/ditto",
                 "count": 1
             },
             {
@@ -4848,6 +4958,13 @@
                 "count": 1
             },
             {
+                "id": 1974,
+                "name": "OpenSSH",
+                "slug": "openssh",
+                "url": "https://djh.ir/tag/openssh",
+                "count": 1
+            },
+            {
                 "id": 1147,
                 "name": "Opus",
                 "slug": "opus",
@@ -4932,6 +5049,13 @@
                 "count": 4
             },
             {
+                "id": 1990,
+                "name": "Quick Paste",
+                "slug": "quick-paste",
+                "url": "https://djh.ir/tag/quick-paste",
+                "count": 1
+            },
+            {
                 "id": 1667,
                 "name": "RAR",
                 "slug": "rar",
@@ -4985,7 +5109,7 @@
                 "name": "SEO",
                 "slug": "seo",
                 "url": "https://djh.ir/tag/seo",
-                "count": 2
+                "count": 3
             },
             {
                 "id": 1868,
@@ -5048,7 +5172,7 @@
                 "name": "SSH",
                 "slug": "ssh",
                 "url": "https://djh.ir/tag/ssh",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 1920,
@@ -5244,7 +5368,7 @@
                 "name": "Windows 11",
                 "slug": "windows-11",
                 "url": "https://djh.ir/tag/windows-11",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 427,
@@ -5321,6 +5445,13 @@
                 "name": "ZIP",
                 "slug": "zip",
                 "url": "https://djh.ir/tag/zip",
+                "count": 1
+            },
+            {
+                "id": 1982,
+                "name": "آموزش",
+                "slug": "%d8%a2%d9%85%d9%88%d8%b2%d8%b4",
+                "url": "https://djh.ir/tag/%d8%a2%d9%85%d9%88%d8%b2%d8%b4",
                 "count": 1
             },
             {
@@ -5422,6 +5553,13 @@
                 "count": 1
             },
             {
+                "id": 1970,
+                "name": "امنیت شبکه",
+                "slug": "%d8%a7%d9%85%d9%86%db%8c%d8%aa-%d8%b4%d8%a8%da%a9%d9%87",
+                "url": "https://djh.ir/tag/%d8%a7%d9%85%d9%86%db%8c%d8%aa-%d8%b4%d8%a8%da%a9%d9%87",
+                "count": 1
+            },
+            {
                 "id": 1894,
                 "name": "انتقال فایل",
                 "slug": "%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84-%d9%81%d8%a7%db%8c%d9%84",
@@ -5475,6 +5613,13 @@
                 "name": "بهترین بازی‌ها",
                 "slug": "%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%b2%db%8c%d9%87%d8%a7",
                 "url": "https://djh.ir/tag/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%b2%db%8c%d9%87%d8%a7",
+                "count": 1
+            },
+            {
+                "id": 1992,
+                "name": "بهره‌وری ویندوز",
+                "slug": "%d8%a8%d9%87%d8%b1%d9%87%d9%88%d8%b1%db%8c-%d9%88%db%8c%d9%86%d8%af%d9%88%d8%b2",
+                "url": "https://djh.ir/tag/%d8%a8%d9%87%d8%b1%d9%87%d9%88%d8%b1%db%8c-%d9%88%db%8c%d9%86%d8%af%d9%88%d8%b2",
                 "count": 1
             },
             {
@@ -5590,6 +5735,13 @@
                 "count": 1
             },
             {
+                "id": 1980,
+                "name": "دوره رایگان",
+                "slug": "%d8%af%d9%88%d8%b1%d9%87-%d8%b1%d8%a7%db%8c%da%af%d8%a7%d9%86",
+                "url": "https://djh.ir/tag/%d8%af%d9%88%d8%b1%d9%87-%d8%b1%d8%a7%db%8c%da%af%d8%a7%d9%86",
+                "count": 1
+            },
+            {
                 "id": 1629,
                 "name": "دیباگ نرم‌افزار",
                 "slug": "%d8%af%db%8c%d8%a8%d8%a7%da%af-%d9%86%d8%b1%d9%85%d8%a7%d9%81%d8%b2%d8%a7%d8%b1",
@@ -5601,6 +5753,13 @@
                 "name": "رزومه آنلاین",
                 "slug": "%d8%b1%d8%b2%d9%88%d9%85%d9%87-%d8%a2%d9%86%d9%84%d8%a7%db%8c%d9%86",
                 "url": "https://djh.ir/tag/%d8%b1%d8%b2%d9%88%d9%85%d9%87-%d8%a2%d9%86%d9%84%d8%a7%db%8c%d9%86",
+                "count": 1
+            },
+            {
+                "id": 1978,
+                "name": "رمزنگاری",
+                "slug": "%d8%b1%d9%85%d8%b2%d9%86%da%af%d8%a7%d8%b1%db%8c",
+                "url": "https://djh.ir/tag/%d8%b1%d9%85%d8%b2%d9%86%da%af%d8%a7%d8%b1%db%8c",
                 "count": 1
             },
             {
@@ -5629,7 +5788,7 @@
                 "name": "سئو",
                 "slug": "%d8%b3%d8%a6%d9%88",
                 "url": "https://djh.ir/tag/%d8%b3%d8%a6%d9%88",
-                "count": 6
+                "count": 7
             },
             {
                 "id": 1886,
@@ -5751,10 +5910,24 @@
                 "count": 1
             },
             {
+                "id": 1988,
+                "name": "کلیپ‌بورد ویندوز",
+                "slug": "%da%a9%d9%84%db%8c%d9%be%d8%a8%d9%88%d8%b1%d8%af-%d9%88%db%8c%d9%86%d8%af%d9%88%d8%b2",
+                "url": "https://djh.ir/tag/%da%a9%d9%84%db%8c%d9%be%d8%a8%d9%88%d8%b1%d8%af-%d9%88%db%8c%d9%86%d8%af%d9%88%d8%b2",
+                "count": 1
+            },
+            {
                 "id": 1641,
                 "name": "لاگ روزانه",
                 "slug": "%d9%84%d8%a7%da%af-%d8%b1%d9%88%d8%b2%d8%a7%d9%86%d9%87",
                 "url": "https://djh.ir/tag/%d9%84%d8%a7%da%af-%d8%b1%d9%88%d8%b2%d8%a7%d9%86%d9%87",
+                "count": 1
+            },
+            {
+                "id": 1972,
+                "name": "لینوکس",
+                "slug": "%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3",
+                "url": "https://djh.ir/tag/%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3",
                 "count": 1
             },
             {
@@ -5769,6 +5942,13 @@
                 "name": "مدیریت ایمیل",
                 "slug": "%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%a7%db%8c%d9%85%db%8c%d9%84",
                 "url": "https://djh.ir/tag/%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%a7%db%8c%d9%85%db%8c%d9%84",
+                "count": 1
+            },
+            {
+                "id": 1976,
+                "name": "مدیریت سرور",
+                "slug": "%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%b3%d8%b1%d9%88%d8%b1",
+                "url": "https://djh.ir/tag/%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%b3%d8%b1%d9%88%d8%b1",
                 "count": 1
             },
             {

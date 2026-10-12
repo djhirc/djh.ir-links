@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://djh.ir/blog</loc>
-		<lastmod>2026-10-07T05:11:10+00:00</lastmod>
+		<lastmod>2026-10-11T06:09:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://djh.ir/network-security-and-firewall-guide</loc>
@@ -1857,6 +1857,36 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/10/djh-simple-php-lister-2_djhir-20261007.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/ssh-protocol-guide</loc>
+		<lastmod>2026-10-08T16:55:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/what-is-ssh_djhir-20261008.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/what-is-ssh-2_djhir-20261008.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/seo-geo-free-course</loc>
+		<lastmod>2026-10-11T05:14:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/seo-geo-free-course_djhir-20261009.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/seo-geo-free-course-1_djhir-20261009.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/ditto-clipboard-manager</loc>
+		<lastmod>2026-10-11T06:09:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/ditto-clipboard-manager_djhir-20261011.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/ditto-clipboard-manager-2_djhir-20261011.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
