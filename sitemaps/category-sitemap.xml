@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://djh.ir/category/backend-development</loc>
-		<lastmod>2026-10-07T05:11:10+00:00</lastmod>
+		<lastmod>2026-10-14T20:23:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/08/backend-development-server-side-programming_djhir-20260816.avif</image:loc>
 		</image:image>
@@ -16,7 +16,7 @@
 	</url>
 	<url>
 		<loc>https://djh.ir/category/scripts</loc>
-		<lastmod>2026-10-07T05:11:10+00:00</lastmod>
+		<lastmod>2026-10-15T14:04:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/06/DJH-Automation-Scripts_djhir-20260622.avif</image:loc>
 		</image:image>
@@ -61,21 +61,28 @@
 	</url>
 	<url>
 		<loc>https://djh.ir/category/gaming</loc>
-		<lastmod>2026-09-24T13:16:58+00:00</lastmod>
+		<lastmod>2026-10-12T17:02:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/08/gaming_djhir-20260806.avif</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://djh.ir/category/software</loc>
-		<lastmod>2026-10-11T06:09:54+00:00</lastmod>
+		<lastmod>2026-10-17T19:12:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/08/software_djhir-20260816.avif</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>https://djh.ir/category/ai</loc>
+		<lastmod>2026-10-17T19:12:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/ai-tools-category_djhir-20261018.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://djh.ir/category/wordpress</loc>
-		<lastmod>2026-09-17T17:40:20+00:00</lastmod>
+		<lastmod>2026-10-14T20:23:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/08/wordpress_djhir-20260806.avif</image:loc>
 		</image:image>

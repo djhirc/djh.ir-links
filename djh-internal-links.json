@@ -2,20 +2,144 @@
     "generator": "DJH Internal Links Feed",
     "version": "2.1.0",
     "site": "https://djh.ir/",
-    "generated_at": "2026-10-12T16:28:38+00:00",
+    "generated_at": "2026-10-18T17:32:32+00:00",
     "stats": {
-        "total": 128,
-        "posts": 88,
+        "total": 132,
+        "posts": 92,
         "pages": 19,
-        "categories": 11,
+        "categories": 12,
         "post_types": {
             "encyclopedia": 21,
             "page": 19,
-            "post": 88
+            "post": 92
         },
         "taxonomies": 4
     },
     "items": [
+        {
+            "id": 3353,
+            "title": "وایب کدینگ (Vibe Coding) چیست؟",
+            "url": "https://djh.ir/vibe-coding",
+            "type": "post",
+            "modified": "2026-10-17T19:12:26+00:00",
+            "categories": [
+                "نرم افزار و برنامه ها (معرفی و بررسی)",
+                "هوش مصنوعی و موارد مرتبط"
+            ],
+            "tags": [
+                "برنامه‌نویسی با هوش مصنوعی",
+                "پرامپت نویسی",
+                "توسعه نرم‌افزار",
+                "هوش مصنوعی مولد",
+                "وایب کدینگ"
+            ],
+            "taxonomies": {
+                "category": [
+                    "نرم افزار و برنامه ها (معرفی و بررسی)",
+                    "هوش مصنوعی و موارد مرتبط"
+                ],
+                "post_tag": [
+                    "برنامه‌نویسی با هوش مصنوعی",
+                    "پرامپت نویسی",
+                    "توسعه نرم‌افزار",
+                    "هوش مصنوعی مولد",
+                    "وایب کدینگ"
+                ],
+                "post_format": []
+            }
+        },
+        {
+            "id": 2478,
+            "title": "ساخت لیست فایل‌ها و پوشه‌ها با PowerShell",
+            "url": "https://djh.ir/powershell-file-folder-list",
+            "type": "post",
+            "modified": "2026-10-15T14:04:13+00:00",
+            "categories": [
+                "پروژه (اسکریپت) اتوماسیون و اختصاصی",
+                "نرم افزار و برنامه ها (معرفی و بررسی)"
+            ],
+            "tags": [
+                "Get-ChildItem",
+                "Powershell",
+                "اتوماسیون ویندوز",
+                "اسکریپت پاورشل",
+                "مدیریت فایل"
+            ],
+            "taxonomies": {
+                "category": [
+                    "پروژه (اسکریپت) اتوماسیون و اختصاصی",
+                    "نرم افزار و برنامه ها (معرفی و بررسی)"
+                ],
+                "post_tag": [
+                    "Get-ChildItem",
+                    "Powershell",
+                    "اتوماسیون ویندوز",
+                    "اسکریپت پاورشل",
+                    "مدیریت فایل"
+                ],
+                "post_format": []
+            }
+        },
+        {
+            "id": 2793,
+            "title": "حذف JPG از وردپرس و جایگزینی با AVIF و WebP",
+            "url": "https://djh.ir/remove-jpg-wordpress-avif-webp",
+            "type": "post",
+            "modified": "2026-10-14T20:23:32+00:00",
+            "categories": [
+                "برنامه نویسی بک اند (Backend)",
+                "وردپرس ( آموزش افزونه ها و برنامه نویسی )"
+            ],
+            "tags": [
+                "AVIF",
+                "Image Compression",
+                "Image Optimization",
+                "JPEG",
+                "WebP",
+                "WordPress"
+            ],
+            "taxonomies": {
+                "category": [
+                    "برنامه نویسی بک اند (Backend)",
+                    "وردپرس ( آموزش افزونه ها و برنامه نویسی )"
+                ],
+                "post_tag": [
+                    "AVIF",
+                    "Image Compression",
+                    "Image Optimization",
+                    "JPEG",
+                    "WebP",
+                    "WordPress"
+                ],
+                "post_format": []
+            }
+        },
+        {
+            "id": 2947,
+            "title": "شبیه‌ ساز بازی &#8211; راهنمای Emulator، BIOS",
+            "url": "https://djh.ir/game-emulators",
+            "type": "post",
+            "modified": "2026-10-12T17:02:30+00:00",
+            "categories": [
+                "گیمینگ، کامپیوتر، کنسول و Emulator"
+            ],
+            "tags": [
+                "Emulator",
+                "بازی ویدیویی",
+                "پلتفرم گیم"
+            ],
+            "taxonomies": {
+                "category": [
+                    "گیمینگ، کامپیوتر، کنسول و Emulator"
+                ],
+                "post_tag": [
+                    "Emulator",
+                    "بازی ویدیویی",
+                    "پلتفرم گیم"
+                ],
+                "post_format": []
+            }
+        },
         {
             "id": 3187,
             "title": "آموزش نرم‌افزار مدیریت کلیپ‌بورد Ditto",
@@ -3380,7 +3504,7 @@
             "name": "برنامه نویسی بک اند (Backend)",
             "slug": "backend-development",
             "url": "https://djh.ir/category/backend-development",
-            "count": 7
+            "count": 8
         },
         {
             "id": 551,
@@ -3394,7 +3518,7 @@
             "name": "پروژه (اسکریپت) اتوماسیون و اختصاصی",
             "slug": "scripts",
             "url": "https://djh.ir/category/scripts",
-            "count": 13
+            "count": 14
         },
         {
             "id": 1623,
@@ -3436,21 +3560,28 @@
             "name": "گیمینگ، کامپیوتر، کنسول و Emulator",
             "slug": "gaming",
             "url": "https://djh.ir/category/gaming",
-            "count": 5
+            "count": 6
         },
         {
             "id": 1307,
             "name": "نرم افزار و برنامه ها (معرفی و بررسی)",
             "slug": "software",
             "url": "https://djh.ir/category/software",
-            "count": 28
+            "count": 30
+        },
+        {
+            "id": 1998,
+            "name": "هوش مصنوعی و موارد مرتبط",
+            "slug": "ai",
+            "url": "https://djh.ir/category/ai",
+            "count": 1
         },
         {
             "id": 511,
             "name": "وردپرس ( آموزش افزونه ها و برنامه نویسی )",
             "slug": "wordpress",
             "url": "https://djh.ir/category/wordpress",
-            "count": 7
+            "count": 8
         }
     ],
     "post_types": [
@@ -3466,7 +3597,7 @@
                 "name": "برنامه نویسی بک اند (Backend)",
                 "slug": "backend-development",
                 "url": "https://djh.ir/category/backend-development",
-                "count": 7
+                "count": 8
             },
             {
                 "id": 551,
@@ -3480,7 +3611,7 @@
                 "name": "پروژه (اسکریپت) اتوماسیون و اختصاصی",
                 "slug": "scripts",
                 "url": "https://djh.ir/category/scripts",
-                "count": 13
+                "count": 14
             },
             {
                 "id": 1623,
@@ -3522,21 +3653,28 @@
                 "name": "گیمینگ، کامپیوتر، کنسول و Emulator",
                 "slug": "gaming",
                 "url": "https://djh.ir/category/gaming",
-                "count": 5
+                "count": 6
             },
             {
                 "id": 1307,
                 "name": "نرم افزار و برنامه ها (معرفی و بررسی)",
                 "slug": "software",
                 "url": "https://djh.ir/category/software",
-                "count": 28
+                "count": 30
+            },
+            {
+                "id": 1998,
+                "name": "هوش مصنوعی و موارد مرتبط",
+                "slug": "ai",
+                "url": "https://djh.ir/category/ai",
+                "count": 1
             },
             {
                 "id": 511,
                 "name": "وردپرس ( آموزش افزونه ها و برنامه نویسی )",
                 "slug": "wordpress",
                 "url": "https://djh.ir/category/wordpress",
-                "count": 7
+                "count": 8
             }
         ],
         "encyclopedia_topic": [
@@ -4388,7 +4526,7 @@
                 "name": "AVIF",
                 "slug": "avif",
                 "url": "https://djh.ir/tag/avif",
-                "count": 3
+                "count": 4
             },
             {
                 "id": 587,
@@ -4654,7 +4792,7 @@
                 "name": "Emulator",
                 "slug": "emulator",
                 "url": "https://djh.ir/tag/emulator",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 1565,
@@ -4741,6 +4879,13 @@
                 "count": 1
             },
             {
+                "id": 1994,
+                "name": "Get-ChildItem",
+                "slug": "get-childitem",
+                "url": "https://djh.ir/tag/get-childitem",
+                "count": 1
+            },
+            {
                 "id": 1103,
                 "name": "GIF",
                 "slug": "gif",
@@ -4822,14 +4967,14 @@
                 "name": "Image Compression",
                 "slug": "image-compression",
                 "url": "https://djh.ir/tag/image-compression",
-                "count": 2
+                "count": 3
             },
             {
                 "id": 1113,
                 "name": "Image Optimization",
                 "slug": "image-optimization",
                 "url": "https://djh.ir/tag/image-optimization",
-                "count": 2
+                "count": 3
             },
             {
                 "id": 451,
@@ -4850,7 +4995,7 @@
                 "name": "JPEG",
                 "slug": "jpeg",
                 "url": "https://djh.ir/tag/jpeg",
-                "count": 2
+                "count": 3
             },
             {
                 "id": 1900,
@@ -5018,7 +5163,7 @@
                 "name": "Powershell",
                 "slug": "powershell",
                 "url": "https://djh.ir/tag/powershell",
-                "count": 14
+                "count": 15
             },
             {
                 "id": 569,
@@ -5333,7 +5478,7 @@
                 "name": "WebP",
                 "slug": "webp",
                 "url": "https://djh.ir/tag/webp",
-                "count": 2
+                "count": 3
             },
             {
                 "id": 1577,
@@ -5417,7 +5562,7 @@
                 "name": "WordPress",
                 "slug": "wordpress",
                 "url": "https://djh.ir/tag/wordpress",
-                "count": 9
+                "count": 10
             },
             {
                 "id": 463,
@@ -5501,13 +5646,20 @@
                 "name": "اتوماسیون ویندوز",
                 "slug": "%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%b3%db%8c%d9%88%d9%86-%d9%88%db%8c%d9%86%d8%af%d9%88%d8%b2",
                 "url": "https://djh.ir/tag/%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%b3%db%8c%d9%88%d9%86-%d9%88%db%8c%d9%86%d8%af%d9%88%d8%b2",
-                "count": 5
+                "count": 6
             },
             {
                 "id": 1960,
                 "name": "اسکریپت PHP",
                 "slug": "%d8%a7%d8%b3%da%a9%d8%b1%db%8c%d9%be%d8%aa-php",
                 "url": "https://djh.ir/tag/%d8%a7%d8%b3%da%a9%d8%b1%db%8c%d9%be%d8%aa-php",
+                "count": 1
+            },
+            {
+                "id": 1996,
+                "name": "اسکریپت پاورشل",
+                "slug": "%d8%a7%d8%b3%da%a9%d8%b1%db%8c%d9%be%d8%aa-%d9%be%d8%a7%d9%88%d8%b1%d8%b4%d9%84",
+                "url": "https://djh.ir/tag/%d8%a7%d8%b3%da%a9%d8%b1%db%8c%d9%be%d8%aa-%d9%be%d8%a7%d9%88%d8%b1%d8%b4%d9%84",
                 "count": 1
             },
             {
@@ -5585,7 +5737,7 @@
                 "name": "بازی ویدیویی",
                 "slug": "%d8%a8%d8%a7%d8%b2%db%8c-%d9%88%db%8c%d8%af%db%8c%d9%88%db%8c%db%8c",
                 "url": "https://djh.ir/tag/%d8%a8%d8%a7%d8%b2%db%8c-%d9%88%db%8c%d8%af%db%8c%d9%88%db%8c%db%8c",
-                "count": 3
+                "count": 4
             },
             {
                 "id": 1898,
@@ -5600,6 +5752,13 @@
                 "slug": "%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c",
                 "url": "https://djh.ir/tag/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c",
                 "count": 4
+            },
+            {
+                "id": 2004,
+                "name": "برنامه‌نویسی با هوش مصنوعی",
+                "slug": "%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%a8%d8%a7-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c",
+                "url": "https://djh.ir/tag/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%a8%d8%a7-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c",
+                "count": 1
             },
             {
                 "id": 1191,
@@ -5644,6 +5803,13 @@
                 "count": 1
             },
             {
+                "id": 2008,
+                "name": "پرامپت نویسی",
+                "slug": "%d9%be%d8%b1%d8%a7%d9%85%d9%be%d8%aa-%d9%86%d9%88%db%8c%d8%b3%db%8c",
+                "url": "https://djh.ir/tag/%d9%be%d8%b1%d8%a7%d9%85%d9%be%d8%aa-%d9%86%d9%88%db%8c%d8%b3%db%8c",
+                "count": 1
+            },
+            {
                 "id": 1573,
                 "name": "پروژه",
                 "slug": "%d9%be%d8%b1%d9%88%da%98%d9%87",
@@ -5655,7 +5821,7 @@
                 "name": "پلتفرم گیم",
                 "slug": "%d9%be%d9%84%d8%aa%d9%81%d8%b1%d9%85-%da%af%db%8c%d9%85",
                 "url": "https://djh.ir/tag/%d9%be%d9%84%d8%aa%d9%81%d8%b1%d9%85-%da%af%db%8c%d9%85",
-                "count": 2
+                "count": 3
             },
             {
                 "id": 1888,
@@ -5691,6 +5857,13 @@
                 "slug": "%d8%aa%d9%88%d8%b3%d8%b9%d9%87-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3",
                 "url": "https://djh.ir/tag/%d8%aa%d9%88%d8%b3%d8%b9%d9%87-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3",
                 "count": 2
+            },
+            {
+                "id": 2006,
+                "name": "توسعه نرم‌افزار",
+                "slug": "%d8%aa%d9%88%d8%b3%d8%b9%d9%87-%d9%86%d8%b1%d9%85%d8%a7%d9%81%d8%b2%d8%a7%d8%b1",
+                "url": "https://djh.ir/tag/%d8%aa%d9%88%d8%b3%d8%b9%d9%87-%d9%86%d8%b1%d9%85%d8%a7%d9%81%d8%b2%d8%a7%d8%b1",
+                "count": 1
             },
             {
                 "id": 533,
@@ -5956,7 +6129,7 @@
                 "name": "مدیریت فایل",
                 "slug": "%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d9%81%d8%a7%db%8c%d9%84",
                 "url": "https://djh.ir/tag/%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d9%81%d8%a7%db%8c%d9%84",
-                "count": 2
+                "count": 3
             },
             {
                 "id": 1916,
@@ -5970,6 +6143,20 @@
                 "name": "مودم",
                 "slug": "%d9%85%d9%88%d8%af%d9%85",
                 "url": "https://djh.ir/tag/%d9%85%d9%88%d8%af%d9%85",
+                "count": 1
+            },
+            {
+                "id": 2002,
+                "name": "هوش مصنوعی مولد",
+                "slug": "%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c-%d9%85%d9%88%d9%84%d8%af",
+                "url": "https://djh.ir/tag/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c-%d9%85%d9%88%d9%84%d8%af",
+                "count": 1
+            },
+            {
+                "id": 2000,
+                "name": "وایب کدینگ",
+                "slug": "%d9%88%d8%a7%db%8c%d8%a8-%da%a9%d8%af%db%8c%d9%86%da%af",
+                "url": "https://djh.ir/tag/%d9%88%d8%a7%db%8c%d8%a8-%da%a9%d8%af%db%8c%d9%86%da%af",
                 "count": 1
             },
             {

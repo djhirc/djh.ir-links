@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://djh.ir/blog</loc>
-		<lastmod>2026-10-11T06:09:54+00:00</lastmod>
+		<lastmod>2026-10-17T19:12:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://djh.ir/network-security-and-firewall-guide</loc>
@@ -1887,6 +1887,61 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/10/ditto-clipboard-manager-2_djhir-20261011.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/game-emulators</loc>
+		<lastmod>2026-10-12T17:02:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/game-emulators-1_djhir-20261012.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/game-emulators-2_djhir-20261012.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/game-emulators_djhir-20261012.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/remove-jpg-wordpress-avif-webp</loc>
+		<lastmod>2026-10-14T20:23:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/remove-jpg-wordpress-avif-webp_djhir-20261014.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/remove-jpg-wordpress-avif-webp-2_djhir-20261014.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/wordpress-lighthouse-mobile-desktop-results_djhir-20261014.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/remove-jpg-wordpress-avif-webp-1_djhir-20261014.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/powershell-file-folder-list</loc>
+		<lastmod>2026-10-15T14:04:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/powershell-file-folder-list_djhir-20261015.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/powershell-file-folder-list-1_djhir-20261015.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/powershell-file-folder-list-2_djhir-20261015.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/vibe-coding</loc>
+		<lastmod>2026-10-17T19:12:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/vibe-coding_djhir-20261015.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/vibe-coding-3_djhir-20261015.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/vibe-coding-2_djhir-20261015.avif</image:loc>
 		</image:image>
 	</url>
 </urlset>
