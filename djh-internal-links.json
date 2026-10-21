@@ -2,20 +2,80 @@
     "generator": "DJH Internal Links Feed",
     "version": "2.1.0",
     "site": "https://djh.ir/",
-    "generated_at": "2026-10-18T17:32:32+00:00",
+    "generated_at": "2026-10-21T21:13:49+00:00",
     "stats": {
-        "total": 132,
-        "posts": 92,
+        "total": 134,
+        "posts": 94,
         "pages": 19,
         "categories": 12,
         "post_types": {
             "encyclopedia": 21,
             "page": 19,
-            "post": 92
+            "post": 94
         },
         "taxonomies": 4
     },
     "items": [
+        {
+            "id": 3375,
+            "title": "دوره رایگان آموزش PHP + AI",
+            "url": "https://djh.ir/free-php-course-ai",
+            "type": "post",
+            "modified": "2026-10-21T06:28:28+00:00",
+            "categories": [
+                "برنامه نویسی بک اند (Backend)",
+                "دوره های رایگان داریوش حقیقی"
+            ],
+            "tags": [
+                "mysql",
+                "php",
+                "Web Development",
+                "برنامه‌نویسی با هوش مصنوعی",
+                "دوره رایگان",
+                "وایب کدینگ"
+            ],
+            "taxonomies": {
+                "category": [
+                    "برنامه نویسی بک اند (Backend)",
+                    "دوره های رایگان داریوش حقیقی"
+                ],
+                "post_tag": [
+                    "mysql",
+                    "php",
+                    "Web Development",
+                    "برنامه‌نویسی با هوش مصنوعی",
+                    "دوره رایگان",
+                    "وایب کدینگ"
+                ],
+                "post_format": []
+            }
+        },
+        {
+            "id": 3366,
+            "title": "آموزش هوش مصنوعی را از کجا شروع کنیم؟",
+            "url": "https://djh.ir/learn-ai-from-scratch",
+            "type": "post",
+            "modified": "2026-10-18T19:35:45+00:00",
+            "categories": [
+                "هوش مصنوعی و موارد مرتبط"
+            ],
+            "tags": [
+                "برنامه‌نویسی با هوش مصنوعی",
+                "پرامپت نویسی",
+                "هوش مصنوعی مولد"
+            ],
+            "taxonomies": {
+                "category": [
+                    "هوش مصنوعی و موارد مرتبط"
+                ],
+                "post_tag": [
+                    "برنامه‌نویسی با هوش مصنوعی",
+                    "پرامپت نویسی",
+                    "هوش مصنوعی مولد"
+                ],
+                "post_format": []
+            }
+        },
         {
             "id": 3353,
             "title": "وایب کدینگ (Vibe Coding) چیست؟",
@@ -3504,7 +3564,7 @@
             "name": "برنامه نویسی بک اند (Backend)",
             "slug": "backend-development",
             "url": "https://djh.ir/category/backend-development",
-            "count": 8
+            "count": 9
         },
         {
             "id": 551,
@@ -3539,7 +3599,7 @@
             "name": "دوره های رایگان داریوش حقیقی",
             "slug": "courses",
             "url": "https://djh.ir/category/courses",
-            "count": 2
+            "count": 3
         },
         {
             "id": 1025,
@@ -3574,7 +3634,7 @@
             "name": "هوش مصنوعی و موارد مرتبط",
             "slug": "ai",
             "url": "https://djh.ir/category/ai",
-            "count": 1
+            "count": 2
         },
         {
             "id": 511,
@@ -3597,7 +3657,7 @@
                 "name": "برنامه نویسی بک اند (Backend)",
                 "slug": "backend-development",
                 "url": "https://djh.ir/category/backend-development",
-                "count": 8
+                "count": 9
             },
             {
                 "id": 551,
@@ -3632,7 +3692,7 @@
                 "name": "دوره های رایگان داریوش حقیقی",
                 "slug": "courses",
                 "url": "https://djh.ir/category/courses",
-                "count": 2
+                "count": 3
             },
             {
                 "id": 1025,
@@ -3667,7 +3727,7 @@
                 "name": "هوش مصنوعی و موارد مرتبط",
                 "slug": "ai",
                 "url": "https://djh.ir/category/ai",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 511,
@@ -5065,7 +5125,7 @@
                 "name": "mysql",
                 "slug": "mysql",
                 "url": "https://djh.ir/tag/mysql",
-                "count": 3
+                "count": 4
             },
             {
                 "id": 1944,
@@ -5135,7 +5195,7 @@
                 "name": "php",
                 "slug": "php",
                 "url": "https://djh.ir/tag/php",
-                "count": 5
+                "count": 6
             },
             {
                 "id": 1902,
@@ -5471,7 +5531,7 @@
                 "name": "Web Development",
                 "slug": "web-development",
                 "url": "https://djh.ir/tag/web-development",
-                "count": 4
+                "count": 5
             },
             {
                 "id": 1093,
@@ -5758,7 +5818,7 @@
                 "name": "برنامه‌نویسی با هوش مصنوعی",
                 "slug": "%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%a8%d8%a7-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c",
                 "url": "https://djh.ir/tag/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%a8%d8%a7-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c",
-                "count": 1
+                "count": 3
             },
             {
                 "id": 1191,
@@ -5807,7 +5867,7 @@
                 "name": "پرامپت نویسی",
                 "slug": "%d9%be%d8%b1%d8%a7%d9%85%d9%be%d8%aa-%d9%86%d9%88%db%8c%d8%b3%db%8c",
                 "url": "https://djh.ir/tag/%d9%be%d8%b1%d8%a7%d9%85%d9%be%d8%aa-%d9%86%d9%88%db%8c%d8%b3%db%8c",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 1573,
@@ -5912,7 +5972,7 @@
                 "name": "دوره رایگان",
                 "slug": "%d8%af%d9%88%d8%b1%d9%87-%d8%b1%d8%a7%db%8c%da%af%d8%a7%d9%86",
                 "url": "https://djh.ir/tag/%d8%af%d9%88%d8%b1%d9%87-%d8%b1%d8%a7%db%8c%da%af%d8%a7%d9%86",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 1629,
@@ -6150,14 +6210,14 @@
                 "name": "هوش مصنوعی مولد",
                 "slug": "%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c-%d9%85%d9%88%d9%84%d8%af",
                 "url": "https://djh.ir/tag/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c-%d9%85%d9%88%d9%84%d8%af",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 2000,
                 "name": "وایب کدینگ",
                 "slug": "%d9%88%d8%a7%db%8c%d8%a8-%da%a9%d8%af%db%8c%d9%86%da%af",
                 "url": "https://djh.ir/tag/%d9%88%d8%a7%db%8c%d8%a8-%da%a9%d8%af%db%8c%d9%86%da%af",
-                "count": 1
+                "count": 2
             },
             {
                 "id": 513,

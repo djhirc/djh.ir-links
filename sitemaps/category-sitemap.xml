@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://djh.ir/category/backend-development</loc>
-		<lastmod>2026-10-14T20:23:32+00:00</lastmod>
+		<lastmod>2026-10-21T06:28:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/08/backend-development-server-side-programming_djhir-20260816.avif</image:loc>
 		</image:image>
@@ -40,7 +40,7 @@
 	</url>
 	<url>
 		<loc>https://djh.ir/category/courses</loc>
-		<lastmod>2026-10-11T05:14:03+00:00</lastmod>
+		<lastmod>2026-10-21T06:28:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/08/free-it-courses-training_djhir-20260816.avif</image:loc>
 		</image:image>
@@ -75,7 +75,7 @@
 	</url>
 	<url>
 		<loc>https://djh.ir/category/ai</loc>
-		<lastmod>2026-10-17T19:12:26+00:00</lastmod>
+		<lastmod>2026-10-18T19:35:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/10/ai-tools-category_djhir-20261018.avif</image:loc>
 		</image:image>

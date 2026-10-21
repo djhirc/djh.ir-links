@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://djh.ir/blog</loc>
-		<lastmod>2026-10-17T19:12:26+00:00</lastmod>
+		<lastmod>2026-10-21T06:28:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://djh.ir/network-security-and-firewall-guide</loc>
@@ -1942,6 +1942,29 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://djh.ir/wp-content/uploads/2026/10/vibe-coding-2_djhir-20261015.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/learn-ai-from-scratch</loc>
+		<lastmod>2026-10-18T19:35:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/learn-ai-from-scratch_djhir-20261018.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/AI_djhir-20261018.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/learn-ai-from-scratch_djhir-20261018.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://djh.ir/free-php-course-ai</loc>
+		<lastmod>2026-10-21T06:28:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/free-php-course-ai-mvc_djhir-20261019.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://djh.ir/wp-content/uploads/2026/10/free-php-course-ai-mvc-2_djhir-20261019.avif</image:loc>
 		</image:image>
 	</url>
 </urlset>
